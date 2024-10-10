@@ -1,12 +1,9 @@
 ## 我是程序员小阳 🐟
 
-- 🐧 爱编程的知识博主，自主创业中
-- 👨‍💻 经历：<a href="https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah" target="_blank">关于我，一位程序员 UP 的成长史</a>
-- 🏡 作品：<a href="https://github.com/liyupi/yu-rpc" target="_blank">RPC框架</a> | <a href="https://github.com/liyupi/free-programming-resources" target="_blank">求星星 ✨</a>
-- 🌱 干货：<a href="https://github.com/liyupi/liyupi/blob/main/wechat_mp.png" target="_blank">公众号『 程序员小阳 』</a>
-- 😺 视频：<a href="https://space.bilibili.com/12890453" target="_blank">B站 程序员小阳</a>
-- 📚 免费编程资源：<a href="https://github.com/liyupi/codefather" target="_blank">鱼皮的编程宝典</a> | <a href="https://yuyuanweb.feishu.cn/wiki/KSrdwPbuPiVjuvkPvd6cWLKgnCg" target="_blank">鱼皮原创文章汇总</a>
-- 🤖 自研产品：<a target="_blank" href="https://laoyujianli.com">面试啦</a>
+- 🐧 爱编程的程序员
+- 👨‍💻 博客：<a href="https://blog.csdn.net/xiaoyang531?type=blog" target="_blank">程序员小阳531</a>
+- 🏡 作品：<a href="https://github.com/zhangxyl/mianshila" target="_blank">面试啦刷题平台</a>
+- 🌱 干货：<a href="" target="_blank">公众号『 程序员小阳 』</a>
 
 
 ## 今年汇总 ✨
